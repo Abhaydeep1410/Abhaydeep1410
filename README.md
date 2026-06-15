@@ -16,11 +16,11 @@
 
 ![](https://img.shields.io/badge/Location-Pune,_India-4338CA?style=for-the-badge)
 
-<a href="https://portfolio.com">
+<a href="https://abhaydeep-portfolio.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/abhay14d">
+<a href="https://www.linkedin.com/in/abhay-deep-324a05242/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/your-github-username">
+<a href="https://github.com/Abhaydeep1410">
 <img src="https://img.shields.io/badge/GitHub-Profile-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
