@@ -34,9 +34,9 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=your-github-username\&style=for-the-badge\&color=7C3AED)
-![](https://img.shields.io/github/followers/your-github-username?style=for-the-badge\&color=4F46E5)
-![](https://img.shields.io/github/stars/your-github-username?affiliations=OWNER%2CCOLLABORATOR\&style=for-the-badge\&color=7C3AED)
+![](https://komarev.com/ghpvc/?username=Abhaydeep1410\&style=for-the-badge\&color=7C3AED)
+![](https://img.shields.io/github/followers/Abhaydeep1410?style=for-the-badge\&color=4F46E5)
+![](https://img.shields.io/github/stars/Abhaydeep1410?affiliations=OWNER%2CCOLLABORATOR\&style=for-the-badge\&color=7C3AED)
 
 </div>
 
@@ -334,11 +334,11 @@ Worked on automation and intelligent software solutions.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhaydeep1410&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhaydeep1410&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaydeep1410&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -348,7 +348,7 @@ Worked on automation and intelligent software solutions.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=algolia&no-frame=true&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Abhaydeep1410&theme=algolia&no-frame=true&column=7"/>
 
 </div>
 
@@ -358,7 +358,7 @@ Worked on automation and intelligent software solutions.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhaydeep1410&theme=tokyo-night"/>
 
 </div>
 
@@ -368,7 +368,7 @@ Worked on automation and intelligent software solutions.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Abhaydeep1410/Abhaydeep1410/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
